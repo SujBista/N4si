@@ -1,4 +1,4 @@
-# N4si
+# SujBista
 
 <h1 align="center">Hi 👋, I'm Sujal Bist</h1>
 <h3 align="center">A passionate tech-geek from NIT ROURKELA.</h3>
